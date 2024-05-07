@@ -1,0 +1,20 @@
+.box{
+    display: flex;
+    justify-content: center;
+}
+
+.closed{
+    font-size: 200px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.open{
+    font-size: 200px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
